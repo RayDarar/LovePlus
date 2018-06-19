@@ -1,0 +1,32 @@
+﻿<Window x:Class="Dashboard.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="♥LovePlus.Dashboard♥"
+        Width="850" Height="525" ResizeMode="NoResize"
+        Background="#FFC0CB" BorderBrush="#7F6065" BorderThickness="3"
+        Icon="Content/Heart-Month.png">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="200"/>
+        </Grid.RowDefinitions>
+        <ListView Background="#FFC0CB" Grid.Row="0" x:Name="CouplesList">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn Header="id Пар" DisplayMemberBinding="{Binding Path=Id}"/>
+                        <GridViewColumn Header="ФИО 1" DisplayMemberBinding="{Binding Path=FirstFullName}"/>
+                        <GridViewColumn Header="ФИО 2" DisplayMemberBinding="{Binding Path=SecondFullName}"/>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <StackPanel Grid.Row="1">
+            <Label Content="Последние пары: " FontFamily="Verdana" Foreground="#BF9098" FontSize="25"/>
+            <TreeView Height="160" Background="#FFC0CB" x:Name="CouplesTreeView"/>
+        </StackPanel>
+    </Grid>
+</Window>

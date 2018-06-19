@@ -1,0 +1,13 @@
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\bin\Debug\Worker.exe.config
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\bin\Debug\Worker.exe
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\bin\Debug\Worker.pdb
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\bin\Debug\RabbitMQ.Client.dll
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\bin\Debug\RabbitMQ.Client.xml
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\obj\Debug\Worker.csprojResolveAssemblyReference.cache
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\obj\Debug\Worker.csproj.CoreCompileInputs.cache
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\obj\Debug\Worker.csproj.CopyComplete
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\obj\Debug\Worker.exe
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\obj\Debug\Worker.pdb
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\bin\Debug\Worker.DAL.dll
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker\bin\Debug\Worker.DAL.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker.DAL\bin\Debug\Worker.DAL.dll
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker.DAL\bin\Debug\Worker.DAL.pdb
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker.DAL\obj\Debug\Worker.DAL.csproj.CoreCompileInputs.cache
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker.DAL\obj\Debug\Worker.DAL.dll
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker.DAL\obj\Debug\Worker.DAL.pdb
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\Worker\Worker.DAL\obj\Debug\Worker.DAL.csprojResolveAssemblyReference.cache
