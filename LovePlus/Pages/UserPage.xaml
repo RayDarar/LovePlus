@@ -1,0 +1,35 @@
+﻿<Page x:Class="LovePlus.Pages.UserPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d" 
+      d:DesignHeight="525" d:DesignWidth="850"
+      Title="UserPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label FontFamily="Verdana" FontSize="25" Foreground="#BF9098" x:Name="SettingLabel"
+               VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+        <Label FontFamily="Verdana" FontSize="25" Foreground="#BF9098" x:Name="WelcomeLabel"
+               VerticalAlignment="Top" HorizontalAlignment="Center"/>
+        <StackPanel Grid.Row="1" VerticalAlignment="Center">
+            <Button Content="Найти пару!" Width="200" Height="40" Background="White" Foreground="#BF9098" FontFamily="Verdana" FontSize="22" x:Name="FindLove" Click="FindLove_Click" Margin="5"/>
+            <Button Content="Выход" Width="200" Height="40" Background="White" Foreground="#BF9098" FontFamily="Verdana" FontSize="22" x:Name="LeaveAccount" Click="LeaveAccount_Click" Margin="5"/>
+            <Button Content="Бросить пару" Width="200" Height="40" Background="White" Foreground="#BF9098" FontFamily="Verdana" FontSize="22" x:Name="LoseLove" Click="LoseLove_Click" Margin="5"/>
+            <Button Content="Удалить аккаунт" Width="200" Height="40" Background="White" Foreground="#BF9098" FontFamily="Verdana" FontSize="22" x:Name="DeleteAccount" Click="DeleteAccount_Click" Margin="5"/>
+        </StackPanel>
+        <Label FontFamily="Verdana" FontSize="20" Foreground="#BF9098" x:Name="StatusLabel"
+               VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <!--<ListView Background="#FFC0CB" Foreground="#BF9098" FontFamily="Verdana" FontSize="20" x:Name="UsersListView" Grid.Row="0" Grid.RowSpan="2" Grid.Column="1">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ФИО" Width="auto" DisplayMemberBinding="{Binding Path=FullName}"/>
+                    <GridViewColumn Header="Статус" Width="auto" DisplayMemberBinding="{Binding Path=Status}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>-->
+    </Grid>
+</Page>

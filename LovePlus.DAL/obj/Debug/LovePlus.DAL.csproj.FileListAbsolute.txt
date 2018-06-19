@@ -1,0 +1,6 @@
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.DAL\bin\Debug\LovePlus.DAL.dll
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.DAL\bin\Debug\LovePlus.DAL.pdb
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.DAL\obj\Debug\LovePlus.DAL.csproj.CoreCompileInputs.cache
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.DAL\obj\Debug\LovePlus.DAL.dll
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.DAL\obj\Debug\LovePlus.DAL.pdb
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.DAL\obj\Debug\LovePlus.DAL.csprojResolveAssemblyReference.cache
