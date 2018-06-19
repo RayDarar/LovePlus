@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LovePlus", "LovePlus\LovePlus.csproj", "{D6B5312A-4315-41D1-93DC-896F2F3FC555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LovePlus.BAL", "LovePlus.BAL\LovePlus.BAL.csproj", "{86A40C69-01CA-4753-B209-892682A89A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LovePlus.DAL", "LovePlus.DAL\LovePlus.DAL.csproj", "{6487FEA4-33EB-49B6-B717-D8425AF32BC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B5312A-4315-41D1-93DC-896F2F3FC555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B5312A-4315-41D1-93DC-896F2F3FC555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B5312A-4315-41D1-93DC-896F2F3FC555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B5312A-4315-41D1-93DC-896F2F3FC555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A40C69-01CA-4753-B209-892682A89A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A40C69-01CA-4753-B209-892682A89A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A40C69-01CA-4753-B209-892682A89A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A40C69-01CA-4753-B209-892682A89A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6487FEA4-33EB-49B6-B717-D8425AF32BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6487FEA4-33EB-49B6-B717-D8425AF32BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6487FEA4-33EB-49B6-B717-D8425AF32BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6487FEA4-33EB-49B6-B717-D8425AF32BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56125CAD-A7D2-4F0C-B468-CA27DCD92AA3}
+	EndGlobalSection
+EndGlobal

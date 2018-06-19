@@ -1,0 +1,13 @@
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\bin\Debug\LovePlus.BAL.dll
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\bin\Debug\LovePlus.BAL.pdb
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\obj\Debug\LovePlus.BAL.csprojResolveAssemblyReference.cache
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\obj\Debug\LovePlus.BAL.csproj.CoreCompileInputs.cache
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\obj\Debug\LovePlus.BAL.dll
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\obj\Debug\LovePlus.BAL.pdb
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\bin\Debug\LovePlus.DAL.dll
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\bin\Debug\LovePlus.DAL.pdb
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\obj\Debug\LovePlus.BAL.csproj.CopyComplete
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\bin\Debug\RabbitMQ.Client.dll
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Documents\Обучение\Академия\4 шаг\SP\Exam\LovePlus\LovePlus.BAL\bin\Debug\RabbitMQ.Client.xml
